@@ -1,4 +1,6 @@
-<h1 align="center" id="title">ITCS5102-Final Project</h1>
+<h1 align="center" id="title">Final Project</h1>
+<h2 align="center" id="title">ITCS 5102 - Programming Languages</h2>
+<h2 align="center" id="title">University of North Carolina at Charlotte</h2>
 
 <p id="description">This project is a comparative study of three different web frameworks (Next.js Nuxt3 SvelteKit) analyzing their features in relation to rapid application development. this repository holds links to children repo's the same starting application built with every framework and an MVP project made with SvelteKit.</p>
 
