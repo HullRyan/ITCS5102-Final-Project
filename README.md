@@ -8,5 +8,5 @@
 
 <h2>MVP Screenshot:</h2>
 
-<img src="https://github.com/HullRyan/sveltekit-mvp/blob/main/screenshots/notebook.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/HullRyan/sveltekit-mvp/blob/main/screenshots/notebook.png" alt="project-screenshot" width="800" height="800/">
 
