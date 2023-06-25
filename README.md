@@ -4,9 +4,9 @@
 
 <h2>📚 Table of Contents</h2>
 
-- [Next.js Starting App](https://github.com/HullRyan/nextjs-starting-app)
+- [Next.js Starting App](https://github.com/HullRyan/nextjs-starting-app) 
 - [Nuxt3 Starting App](https://github.com/HullRyan/nuxt3-starting-app)
-- [SvelteKit Starting App](https://github.com/HullRyan/sveltekit-starting-app)
+- [SvelteKit Starting App](https://github.com/HullRyan/sveltekit-starting-app) Deployed [here](https://hullryan.github.io/sveltekit-starting-app/)
 - [SvelteKit MVP](https://github.com/HullRyan/sveltekit-mvp)
 
 <h2>🚀 MVP Demo</h2>
@@ -17,3 +17,4 @@
 
 <img src="https://github.com/HullRyan/sveltekit-mvp/blob/main/screenshots/notebook.png" alt="project-screenshot" width="800" height="800/">
 
+Thank you for reading!
