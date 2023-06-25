@@ -4,10 +4,10 @@
 
 <h2>📚 Table of Contents</h2>
 
-- [Next.js Starting App](./Comparisons/Next.js/nextjs-starting-app/)
-- [Nuxt3 Starting App](./Comparisons/Nuxt3/nuxt3-starting-app/)
-- [SvelteKit Starting App](./Comparisons/SvelteKit/sveltekit-starting-app/)
-- [SvelteKit MVP](./MVP/)
+- [Next.js Starting App](https://github.com/HullRyan/nextjs-starting-app)
+- [Nuxt3 Starting App](https://github.com/HullRyan/nuxt3-starting-app)
+- [SvelteKit Starting App](https://github.com/HullRyan/sveltekit-starting-app)
+- [SvelteKit MVP](https://github.com/HullRyan/sveltekit-mvp)
 
 <h2>🚀 MVP Demo</h2>
 
